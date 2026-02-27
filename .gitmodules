@@ -1,0 +1,18 @@
+[submodule "High-level"]
+	path = High-level
+	url = https://github.com/bumblebee-robotics/Base_autonomous.git
+[submodule "PCB"]
+	path = PCB
+	url = https://github.com/bumblebee-robotics/Base_electronics.git
+[submodule "Sizing"]
+	path = Sizing
+	url = https://github.com/bumblebee-robotics/Base_power.git
+[submodule "Modeling & simulation"]
+	path = Modeling & simulation
+	url = https://github.com/bumblebee-robotics/Base_control.git
+[submodule "Design"]
+	path = Design
+	url = https://github.com/bumblebee-robotics/Base_mechanical.git
+[submodule "Low-level"]
+	path = Low-level
+	url = https://github.com/bumblebee-robotics/Base_embedded.git
