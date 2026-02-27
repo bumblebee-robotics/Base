@@ -16,3 +16,6 @@
 [submodule "Low-level"]
 	path = Low-level
 	url = https://github.com/bumblebee-robotics/Base_embedded.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/bumblebee-robotics/docs.git
